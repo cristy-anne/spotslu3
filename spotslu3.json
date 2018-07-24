@@ -46,12 +46,12 @@
   },
   {
     "id": 211,
-    "name": "Christ the Redeemer",
-    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNYzcR5voohSjFC9vlhQuRr1KtodEg242faiNVG=w216-h144-c",
+    "name": "USAFFE-NL Military Shrine and Park",
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPWmpe1SSEez2hrkQiygxHJXgaflSVZTNmYgUBG=s1600-w400",
     "price": 0,
     "priceCurrency": "PHP",
-    "lat": 16.620427,
-    "lng": 120.319004
+    "lat": 16.820884,
+    "lng": 120.33558
   },
     {
     "id": 122,
@@ -92,7 +92,7 @@
  {
     "id": 561,
     "name": "Pugo Adventure",
-    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVnmah7GWvf0nzf12ImH8Lh5FsbI9q-yPw-5GQIO86mvKZhjQ7DQ",
+    "imageUrl": "https://erraticlakwatsero.files.wordpress.com/2014/11/wpid-img_20141116_102408.jpg",
     "price": 250,
     "priceCurrency": "PHP",
     "lat": 16.336675,
