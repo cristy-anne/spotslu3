@@ -1,23 +1,5 @@
 [
-    {
-    "id": 565,
-    "name": "Pindangan Ruins",
-    "imageUrl": "http://www.launiontayo.com.ph/wp-content/uploads/2017/11/pindangan-ruins.jpg",
-    "price": 0,
-    "priceCurrency": "PHP",
-    "lat": 16.58814,
-    "lng": 120.314598
-  },
-{
-    "id": 561,
-    "name": "Pugo Adventure",
-    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVnmah7GWvf0nzf12ImH8Lh5FsbI9q-yPw-5GQIO86mvKZhjQ7DQ",
-    "price": 250,
-    "priceCurrency": "PHP",
-    "lat": 16.336675,
-    "lng": 120.478815
-  },
-  {
+ {
     "id": 145,
     "name": "Tangadan Falls",
     "imageUrl": "https://cdn.looloo.com/photos/reviews/252710/large_square/1448466883.jpg?1452570057",
@@ -34,6 +16,24 @@
     "priceCurrency": "PHP",
     "lat": 16.856808,
     "lng": 120.372862
+  },
+   {
+    "id": 565,
+    "name": "Pindangan Ruins",
+    "imageUrl": "http://www.launiontayo.com.ph/wp-content/uploads/2017/11/pindangan-ruins.jpg",
+    "price": 0,
+    "priceCurrency": "PHP",
+    "lat": 16.58814,
+    "lng": 120.314598
+  },
+{
+    "id": 561,
+    "name": "Pugo Adventure",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVnmah7GWvf0nzf12ImH8Lh5FsbI9q-yPw-5GQIO86mvKZhjQ7DQ",
+    "price": 250,
+    "priceCurrency": "PHP",
+    "lat": 16.336675,
+    "lng": 120.478815
   },
   {
     "id": 201,
