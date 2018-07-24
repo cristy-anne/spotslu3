@@ -26,15 +26,6 @@
     "lat": 16.58814,
     "lng": 120.314598
   },
-{
-    "id": 561,
-    "name": "Pugo Adventure",
-    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVnmah7GWvf0nzf12ImH8Lh5FsbI9q-yPw-5GQIO86mvKZhjQ7DQ",
-    "price": 250,
-    "priceCurrency": "PHP",
-    "lat": 16.336675,
-    "lng": 120.478815
-  },
   {
     "id": 201,
     "name": "Ma-Cho Temple",
@@ -97,6 +88,15 @@
     "priceCurrency": "PHP",
     "lat": 16.318883 ,
     "lng": 120.468736
+  },
+ {
+    "id": 561,
+    "name": "Pugo Adventure",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVnmah7GWvf0nzf12ImH8Lh5FsbI9q-yPw-5GQIO86mvKZhjQ7DQ",
+    "price": 250,
+    "priceCurrency": "PHP",
+    "lat": 16.336675,
+    "lng": 120.478815
   },
    {
     "id": 200,
